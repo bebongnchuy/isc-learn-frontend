@@ -1,0 +1,25 @@
+LICENSE AGREEMENT
+
+Copyright © iSpark Inno 2025. All Rights Reserved.
+
+This software and its associated files (the "Software") are the exclusive property of iSpark Inno. Unauthorized copying,
+modification, distribution, use, or disclosure of any part of this Software is strictly prohibited without the prior
+written and signed consent of the copyright holder.
+
+Permissions
+No permissions are granted to any party to:
+
+1. Use, reproduce, or copy this Software.
+
+2. Modify, merge, publish, distribute, sublicense, or sell copies of this Software.
+
+3. Incorporate this Software into other projects, whether for commercial or non-commercial use.
+
+Restrictions
+Any unauthorized use of this Software constitutes a violation of applicable copyright laws punishable by law.
+
+Contact
+For permissions, licensing, or inquiries, please contact:
+
+Dchoune Dominick
+Email: dominickdchoune@isparkinno.com
